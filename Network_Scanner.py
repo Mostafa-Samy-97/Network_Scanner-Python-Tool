@@ -1,6 +1,6 @@
 #!/usr/bin/env python 
 
-# Deauth_Attacker Python Tool Version 1.0
+# Network_Scanner Python Tool Version 1.0
 # Developed By Mostafa_Samy
 # Github Link ==>> https://github.com/Mostafa-Samy-97
 
